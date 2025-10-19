@@ -1,1 +1,2 @@
 # odin-recipes
+The Odin Recipe Project is the chance to practice all of the HTML knowledge acquired up to this point. In the project, I will be creating a basic website that consists of a main page and will have links to a few recipes. The purpose of the project is to build my HTML chops.
